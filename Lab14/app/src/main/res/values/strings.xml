@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab14</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_greeting">GreetingActivity</string>
+</resources>

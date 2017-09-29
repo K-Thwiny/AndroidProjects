@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreetingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"> Hello World, ListViewActivy1!</string>
+    <string name="app_name">ListViewDemo</string>
+      <string-array name="cars_array">
+          <item>Audi</item>
+          <item>Ford</item>
+          <item>Hyundai</item>
+          <item>Nissan</item>
+          <item>Lexus</item>
+          <item>BMW</item>
+          <item>Mercedes</item>
+          <item>Ferrari</item>
+          <item>Chevy</item>
+          <item>Lincoln</item>
+          <item>Honda</item>
+          <item>Dodge</item>
+          <item>Infiniti</item>
+          <item>Volkswagen</item>
+          <item>Acura</item>
+          <item>Volvo</item>
+      </string-array>
+</resources>
